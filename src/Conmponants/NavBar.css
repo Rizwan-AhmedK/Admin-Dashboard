@@ -1,0 +1,19 @@
+.navbar{
+    width: 100%;
+    background-color: blue;
+}
+
+ul{
+    float: left;
+    width: 100%;
+    list-style-type: none;
+    background-color: blue;
+
+}
+
+li{
+    float: left;
+    text-decoration: none;
+    padding: 10px;
+    color: aliceblue;
+}

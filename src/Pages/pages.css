@@ -1,0 +1,19 @@
+
+ul{
+    list-style-type: none;
+    width: 100%;
+
+}
+
+ li{
+     float: left;
+     margin: 10px;
+ }
+
+ link{
+     color: green;
+ }
+
+ .sty{
+     background-color: blue;
+ }
